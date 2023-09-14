@@ -5,6 +5,8 @@ Movie Vault is a React application that uses the Open Movies Database (OMDb) API
 
 Users' saved movie lists are tied to their login, so they are able to view their lists from any device.
 
+## Installation
+All of the following dependencies will need to be installed to run the application in the local host: ReactJS, Vite, Bootstrap, Apollo, GraphQL. This can be done by inputting `npm i` into the console and are located in the `package.json` files. 
 
 ## Usage
 Users will be able to sign up or log in to the website to save movies to their profile. Once the user has found their desired movie by typing the name into the search bar they can click the save movie button below the movie's description to save it to their profile. Users can view their saved movies by clicking "My Movies" located in the navbar.
